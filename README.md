@@ -7,4 +7,4 @@ The Python code maintains keep session in Google Colab while executing a trainin
 <br>
 
 
-When you are training for any model in Google Colab, when the warning "are you still there?" shows up, code is automatically ticks and allows you to continue your training. 
+While you are training for any model in Google Colab, and when the warning "are you still there?" shows up, code is automatically ticks and allows you to continue your training. 
